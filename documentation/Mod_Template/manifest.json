@@ -133,30 +133,30 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
-                    },
-                    "gx_secondary_base":
-                    {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+        "h": 85,    // verde oliva escuro
+        "s": 40,
+        "l": 40
+    },
+    "gx_secondary_base":
+    {
+        "h": 60,    // tom areia/amarelado
+        "s": 20,
+        "l": 20
                     }
                 },
                 "light":
                 {
                     "gx_accent":
                     {
-                        "h": 112,
-                        "s": 80,
-                        "l": 44
-                    },
-                    "gx_secondary_base":
-                    {
-                        "h": 272,
-                        "s": 32,
-                        "l": 16
+        "h": 85,   // mesmo tom, só mais claro
+        "s": 40,
+        "l": 55
+    },
+    "gx_secondary_base":
+    {
+        "h": 60,
+        "s": 20,
+        "l": 35
                     }
                 }
             },
